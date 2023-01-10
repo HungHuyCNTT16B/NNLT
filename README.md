@@ -7,4 +7,3 @@
 ## [Bài tập 1](jdoodle.com/a/5I8D)
 ## [Bài tập 2](jdoodle.com/a/5I8F)
 ## [Bài tập 3](jdoodle.com/a/5I8I)
-## [BT26/12](jdoodle.com/a/5I8N)
